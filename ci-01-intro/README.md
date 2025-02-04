@@ -19,6 +19,8 @@
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
 
+![jira01](https://github.com/rbudarin/ci/blob/main/ci-01-intro/screen/jira01.png)
+
 Остальные задачи должны проходить по упрощённому workflow:
 
 1. Open -> On develop.
@@ -26,6 +28,8 @@
 3. Done develop -> On test.
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
+
+![jira02](https://github.com/rbudarin/ci/blob/main/ci-01-intro/screen/jira02.png)
 
 **Что нужно сделать**
 
